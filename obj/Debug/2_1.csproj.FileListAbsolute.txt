@@ -1,0 +1,7 @@
+C:\Users\синус\Desktop\c#\2_1\bin\Debug\2_1.exe.config
+C:\Users\синус\Desktop\c#\2_1\bin\Debug\2_1.exe
+C:\Users\синус\Desktop\c#\2_1\bin\Debug\2_1.pdb
+C:\Users\синус\Desktop\c#\2_1\obj\Debug\2_1.csproj.AssemblyReference.cache
+C:\Users\синус\Desktop\c#\2_1\obj\Debug\2_1.csproj.CoreCompileInputs.cache
+C:\Users\синус\Desktop\c#\2_1\obj\Debug\2_1.exe
+C:\Users\синус\Desktop\c#\2_1\obj\Debug\2_1.pdb
